@@ -28,6 +28,7 @@ Excluded:
 
 ## Quick actor view
 
+
 ```mermaid
 flowchart LR
     A[BOC / source documents] --> B[MAIRD actor in portal]
@@ -35,6 +36,9 @@ flowchart LR
     C --> D[LTO internal users in portal]
     D --> E[CR / OR / plate / registration outputs]
 ```
+
+![MAIRD Workflow](./maird-workflow.png)
+
 
 ## Important note
 
